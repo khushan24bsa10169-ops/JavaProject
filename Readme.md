@@ -1,4 +1,4 @@
-# 🏥 Clinic Management System
+# 🏥 Clinic Record System
 
 ![Java](https://img.shields.io/badge/Language-Java-orange.svg)
 ![Status](https://img.shields.io/badge/Status-Active-green.svg)
@@ -133,4 +133,5 @@ Contributions are welcome\! Please fork the repository and create a pull request
 
 
 Made with Love❤️❤️ by Khushan
+
 
