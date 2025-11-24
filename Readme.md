@@ -10,7 +10,7 @@
 
 ## 📖 Overview
 
-The **Clinic Management System** acts as a digital receptionist for healthcare clinics. It replaces manual paper records with a comprehensive digital solution. 
+The **Clinic Record System** acts as a digital receptionist for healthcare clinics. It replaces manual paper records with a comprehensive digital solution. 
 
 Unlike complex database-driven apps, this project utilizes **Java Serialization** to ensure data persistence without the need for external SQL servers—making it lightweight and portable.
 
@@ -94,7 +94,7 @@ Follow these instructions to set up the project on your local machine.
 1.  **Clone the Repository**
 
     ```bash
-    git clone [https://github.com/Aman35256/Clinic.git](https://github.com/Aman35256/Clinic.git)
+    git clone [https://github.com/khushan24bsa10169-ops/JavaProject)](https://github.com/khushan24bsa10169-ops/JavaProject)
     cd Clinic
     ```
 
@@ -133,5 +133,6 @@ Contributions are welcome\! Please fork the repository and create a pull request
 
 
 Made with Love❤️❤️ by Khushan
+
 
 
