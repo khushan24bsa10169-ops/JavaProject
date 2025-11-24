@@ -129,9 +129,8 @@ Contributions are welcome\! Please fork the repository and create a pull request
 4.  Push to the Branch (`git push origin feature/AmazingFeature`)
 5.  Open a Pull Request
 
-## 📞 Contact
-
-**Aman35256** Project Link: [https://github.com/Aman35256/Clinic](https://github.com/Aman35256/Clinic)
 
 
-Made with Love❤️❤️
+
+Made with Love❤️❤️ by Khushan
+
